@@ -1,16 +1,19 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 🟣
 
-<!--
-**LuquinhaX07/LuquinhaX07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Lucas Henrique
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estudo a Linguagem JavaScript
+- Nesse espaço poderão ver os projetos que eu criei
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Para entrar em contato comigo 📫
+
+luckaleon07@gmail.com
+
+@2kxluckaz
+
+
+
+![](https://media1.tenor.com/m/PKKCAakpBZIAAAAC/neyney-neymar.gif)
+
+
